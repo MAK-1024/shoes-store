@@ -147,7 +147,7 @@ class _ItemdetalisViewState extends State<ItemdetalisView> {
                       alignment: Alignment.center,
                       child: CircleButton()),
 
-                  SizedBox(height: 20,),
+                  SizedBox(height: 21,),
                 ],
 
 
